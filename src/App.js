@@ -42,7 +42,7 @@ class App extends React.Component {
       this.setState({topScore: newScore});
     }
     else if (newScore === 12) {
-      this.setState({rightWrong: "You Win!"});
+      this.setState({rightWrong: "You have guessed each planet of the Milky Way correctly.  You Win!"});
     }
     this.handleShuffle();
   };
@@ -50,8 +50,8 @@ handleReset = () => {
   this.setState({
     currentScore: 0,
     topScore: this.state.topScore,
-    rightWrong: "PlaceHolder!!!",
-    clicked: {}
+    rightWrong: "Woops!!!  You guessed that planet already.  Lets try that again!",
+    clicked: []
   });
   this.handleShuffle();
 }
