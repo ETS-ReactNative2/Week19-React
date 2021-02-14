@@ -1,62 +1,74 @@
 [
   {
     "id": 1,
-    "image": "https://images.pexels.com/photos/87651/earth-blue-planet-globe-planet-87651.jpeg",
+    "imagePlaceholder": "https://images.pexels.com/photos/87651/earth-blue-planet-globe-planet-87651.jpeg",
+    "image":"../assets/earth.jpg",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/05/02/11/jupiter-red-spot.jpg",
+    "imagePlaceholder": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/05/02/11/jupiter-red-spot.jpg",
+    "image":"../assets/Jupiter.png",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "https://nssdc.gsfc.nasa.gov/planetary/image/saturn.jpg",
+    "imagePlaceholder": "https://nssdc.gsfc.nasa.gov/planetary/image/saturn.jpg",
+    "image":"../assets/saturn.jpg",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "http://planetfacts.org/wp-content/uploads/2010/03/Mercury.jpg",
+    "imagePlaceholder": "http://planetfacts.org/wp-content/uploads/2010/03/Mercury.jpg",
+    "image":"../assets/mercury.jpg",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/07/02/10/mars-1.jpg",
+    "imagePlaceholder": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/07/02/10/mars-1.jpg",
+    "image":"../assets/Mars.jpg",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "https://nationalpostcom.files.wordpress.com/2017/08/neptune-cropped.jpg",
+    "imagePlaceholder": "https://nationalpostcom.files.wordpress.com/2017/08/neptune-cropped.jpg",
+    "image":"../assets/neptune.jpg",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "https://www.nasa.gov/sites/default/files/thumbnails/image/nh-charon-neutral-bright-release_0.jpg",
+    "imagePlaceholder": "https://www.nasa.gov/sites/default/files/thumbnails/image/nh-charon-neutral-bright-release_0.jpg",
+    "image":"../assets/CharonHP.jpg",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "https://images.interactives.dk/files/bonnier-ill/pictures/uranus_temperature.jpg",
+    "imagePlaceholder": "https://images.interactives.dk/files/bonnier-ill/pictures/uranus_temperature.jpg",
+    "image":"../assets/uranus.png",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "http://www.astronomy.com/-/media/Images/News%20and%20Observing/News/2018/02/PIA00270_hires.jpg",
+    "imagePlaceholder": "http://www.astronomy.com/-/media/Images/News%20and%20Observing/News/2018/02/PIA00270_hires.jpg",
+    "image":"../assets/pia00270.jpg",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "https://space-facts.com/wp-content/uploads/mars.jpg",
+    "imagePlaceholder": "https://space-facts.com/wp-content/uploads/mars.jpg",
+    "image":"../assets/mars2.jpg",
     "clicked": false
   },
   {
     "id": 11,
-    "image": "https://cdn.images.express.co.uk/img/dynamic/80/590x/sun-653666.jpg",
+    "imagePlaceholder": "https://cdn.images.express.co.uk/img/dynamic/80/590x/sun-653666.jpg",
+    "image":"../assets/Sun.jpg",
     "clicked": false
   },
   {
     "id": 12,
-    "image": "https://wordlesstech.com/wp-content/uploads/2012/09/Dawn-spacecraft-prepares-to-leave-Vesta-for-Ceres.jpg",
+    "imagePlaceholder": "https://wordlesstech.com/wp-content/uploads/2012/09/Dawn-spacecraft-prepares-to-leave-Vesta-for-Ceres.jpg",
+    "image":"../assets/Ceres.jpg",
     "clicked": false
   }
 ]

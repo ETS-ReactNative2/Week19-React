@@ -7,10 +7,9 @@
     height: auto;
     font-family: 'Raleway', sans-serif;
     border: 2px solid gray;
-    background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/03/55/79/76579d6983d4385.jpg");
+    background-image: url("metalBackdrop.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
-   
+    background-size: cover;   
   }
 
   #title {
